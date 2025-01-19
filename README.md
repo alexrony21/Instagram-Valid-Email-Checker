@@ -1,4 +1,5 @@
 # Instagram Valid Email Checker
+# Instagram 有效电子邮件检查器
 
 ![image](https://raw.githubusercontent.com/alexrony21/Instagram-Valid-Email-Checker/refs/heads/main/instagram_valid_email_checker.png)
 
